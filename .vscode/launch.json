@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-JwtdemoApplication<jwtdemo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "kr.co.ict.jwtdemo.JwtdemoApplication",
+      "projectName": "jwtdemo",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
